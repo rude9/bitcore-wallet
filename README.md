@@ -1,6 +1,7 @@
 # bitcore-wallet
 
 [![NPM Package](https://img.shields.io/npm/v/bitcore-wallet.svg?style=flat-square)](https://www.npmjs.org/package/bitcore-wallet)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frude9%2Fbitcore-wallet.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Frude9%2Fbitcore-wallet?ref=badge_shield)
 
 A simple Command Line Interface Wallet using [Bitcore Wallet Service] (https://github.com/bitpay/bitcore-wallet-service) and its *official* client lib, bitcore-wallet-client] (https://github.com/bitpay/bitcore-wallet-client)
 
@@ -134,3 +135,7 @@ proxy$ wallet sign -i signatures.dat
 ```
 
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frude9%2Fbitcore-wallet.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Frude9%2Fbitcore-wallet?ref=badge_large)
